@@ -15,7 +15,7 @@
 
 4.Open Main file then press the run button to run the project.
  
-![img_2.png](img_2.png)
+![img_3.png](images/img_3.png)
 
 5. After that, a prompt will appear from the command line.Follow the instructions in the terminal of your editor  to see the results.Below are some of the screenshots for how the project was working when I was testing.
 
